@@ -1,0 +1,8 @@
+{
+  "name": "Remix MeDo ERP - نظام المحاسبة والمالية المتكامل SAP S/4HANA",
+  "description": "نظام تخطيط موارد المؤسسات وإدارة الحسابات المالية (FI) والمحاسبة الإدارية والتكاليف (CO) وإدارة الأصول والتقارير ومساعد الذكاء الاصطناعي مع دعم البيئة اليمنية والعملات المتعددة",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
