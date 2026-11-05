@@ -1,4 +1,4 @@
-# 🏢 MeDo ERP - النظام المحاسبي والإداري السحابي المتكامل
+نظام محاسبي# 🏢 MeDo ERP - النظام المحاسبي والإداري السحابي المتكامل
 # 🏢 MeDo ERP - Integrated Cloud Accounting & Administrative System
 
 ---
